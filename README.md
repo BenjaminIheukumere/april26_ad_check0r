@@ -87,19 +87,19 @@ Example:
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
 
 # run with defaults
-.\ad0426_check0r.ps1
+.\april26_ad_check0r.ps1
 ````
 
 Recommended:
 
 ```powershell
-.\ad0426_check0r.ps1 -DaysBack 14 -OutRoot "C:\Temp"
+.\april26_ad_check0r.ps1 -DaysBack 14 -OutRoot "C:\Temp"
 ```
 
 Target specific DCs:
 
 ```powershell
-.\ad0426_check0r.ps1 -TargetDCs @("dc01.contoso.local","dc02.contoso.local") -DaysBack 30
+.\april26_ad_check0r.ps1 -TargetDCs @("dc01.contoso.local","dc02.contoso.local") -DaysBack 30
 ```
 
 ---
