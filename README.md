@@ -1,4 +1,3 @@
-````markdown
 # AD April '26 Check0r 🛡️  
 **Kerberos RC4/AES Readiness Checks for the April 2026 changes (CVE-2026-20833)**
 
