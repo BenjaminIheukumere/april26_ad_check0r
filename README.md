@@ -62,6 +62,7 @@ Outputs:
 ### 5) Legacy / at-risk endpoint triage (AD attribute scan)
 Uses AD `OperatingSystem` strings as a quick prioritization list (not proof).
 You should correlate this with the DC readiness events for evidence.
+<img width="1335" height="1216" alt="report" src="https://github.com/user-attachments/assets/832b3088-1f0e-43b1-b2e5-d2f92fa60b38" />
 
 ---
 
