@@ -1,4 +1,4 @@
-# AD April '26 Check0r 🛡️  
+# April '26 AD Check0r 🛡️  
 **Kerberos RC4/AES Readiness Checks for the April 2026 changes (CVE-2026-20833)**
 
 **Created by:** Benjamin Iheukumere | SafeLink IT
