@@ -110,7 +110,7 @@ $Banner = @"
                                                                                                 
                                                                                                 
 
-          Created by: Benjamin Iheukumere | SafLink IT
+          Created by: Benjamin Iheukumere | SafeLink IT
           Purpose   : Kerberos RC4/AES Readiness Checks for April 2026 changes
           Mode      : READ-ONLY (no changes are made)
 "@
