@@ -229,8 +229,7 @@ If you open an issue, please include:
 
 ## License
 
-Pick whatever fits your repo strategy (MIT is common for tooling like this).
-Once you decide, drop the license text into `LICENSE` and keep it consistent across your repos.
+Do whatever you want with the script, just keep me as the OG creator in it
 
 ---
 
@@ -241,6 +240,6 @@ Always validate changes in a lab and follow your organization’s change managem
 
 ```
 
-The README references Microsoft’s official guidance for the April 2026 phase change and the KDC readiness events. :contentReference[oaicite:0]{index=0}
+
 ::contentReference[oaicite:1]{index=1}
 ```
